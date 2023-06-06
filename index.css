@@ -1,0 +1,152 @@
+
+*     {
+     margin:0px;
+     padding:0px;
+      }
+
+body {
+     width: 1500px; height: 969px;
+      }
+@font-face {
+    font-family: 'DungGeunMo';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/DungGeunMo.woff') format('woff');
+}
+
+
+.text {
+     width: 378px;
+     margin-right: 20px;
+     margin-left: 370px;
+     margin-bottom: 800px;
+     margin-top: 100px;
+      }
+
+
+
+.ㄷr시 { 
+     margin-top: 43.84px;
+     font-family: 'DungGeunMo',sans-serif;
+     font-size: 36px;
+     line-height: 42px;
+     color: #129FCE;
+     margin-top: 43.84px;
+     font-weight: 300;
+       }
+
+.새롭게 {
+     font-family: 'GothicNeoaUni',sans-serif;
+     font-weight: 400;
+     font-size: 18px;
+     line-height: 19px;
+     color: #333333;
+     opacity: 0.9;
+     margin-top: 21.16px;
+        }
+        
+.button {
+     display: block;
+     margin-right: 9.44px;
+     margin-top: 86.24px;
+        }
+
+.button img {
+     height: 45px;
+     margin-bottom: 18.09px;
+}
+
+.싸이 {
+     font-family: 'DungGeunMo',sans-serif;
+     font-size: 13px;
+     padding-right: 18.27px;
+      }
+
+.half1 {
+     background-image: url(./i/h7.png);
+     background-repeat: no-repeat;
+     position: center top;
+     width: 700px;
+     height: 370.64px;
+     position: absolute;
+     top: 0;
+     left: 1100px;
+     z-index: -2;
+       }
+
+.half2 {
+     background-image: url(./i/h6.png);
+     background-repeat: no-repeat;
+     position: relative;
+     width: 700px;
+     height: 255.08px;
+     bottom: -80px;
+     left: -160px;
+     z-index: -1;
+       }
+
+.all {
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+     align-items: center;
+     padding-top: 100px;
+     /* height: 35px;
+     margin-top: 272.43px;
+     margin-left: 160.797px; */
+      }
+
+.img {
+     display: grid;
+     grid-template-columns: auto auto auto;
+     align-items: center;
+     width: 800.391px; 
+     height: 862.031px;
+     padding-left: 125px;
+     padding-bottom: 800px;
+     background-repeat: no-repeat;
+     }
+
+.img1 {
+     margin-top: 150px;
+
+      }     
+
+.img2 {
+     display: grid;
+     grid-template-rows: auto auto;
+     align-items: center;
+     z-index: 1;
+
+      }
+
+.g1 { 
+     position: relative;
+     left:85px;
+     top:8px;
+
+    }
+
+.g2 {
+     position: relative;
+     left:100px;
+     top:22px;
+    }
+
+.g3 {
+     position: relative;
+     left:65px; 
+    }
+
+.g4 {
+     position: relative;
+     top:45px;
+     left:10px;
+
+    }
+
+.g5 {
+     position: relative;
+     left:75px;
+    }
+
+body {
+     background-color: rgb(246, 246, 246);;
+     } 
